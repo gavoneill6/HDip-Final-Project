@@ -1,0 +1,7 @@
+This folder contains the two datasets that I used during the project and a folder with the csv files used to create the datasets. 
+
+1. Crime - 2003 - 2015 This dataset was used in the beginning but was edited and some years dropped because of missing values
+
+2. Crime - 2007 - 2014 This dataset was used for the main analysis
+
+3. A folder containing the csv files used to create the datasets.
